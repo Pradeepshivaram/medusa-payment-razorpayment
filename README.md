@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Medusa Starter Default
+  MEDUSA PAYMENT RAZORPAY
 </h1>
 <p align="center">
 This repo provides the skeleton to get you started with using <a href="https://github.com/medusajs/medusa">Medusa</a>. Follow the steps below to get ready.
